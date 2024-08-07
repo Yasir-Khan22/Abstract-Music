@@ -1,0 +1,40 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Music Theory",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of music theory and how to read sheet music.",
+            "instructor": "John Doe",
+            "image": "music_theory.jpg",
+            "price": 99.99
+        },
+        {
+            "id": 2,
+            "title": "Guitar for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Learn the basics of playing the guitar and how to read guitar tabs.",
+            "instructor": "Jane Doe",
+            "image": "guitar_for_beginners.jpg",
+            "price": 149.99
+        },
+        {
+            "id": 3,
+            "title": "Piano for Beginners",
+            "slug": "advanced-vocal-techniques",
+            "description": "Learn the basics of playing the piano and how to read piano sheet music.",
+            "instructor": "John Doe",
+            "image": "piano_for_beginners.jpg",
+            "price": 149.99
+        },
+        {
+            "id": 4,
+            "title": "Advanced Vocal Techniques",
+            "slug": "music-theory",
+            "description": "Learn advanced vocal techniques and how to sing in harmony.",
+            "instructor": "Jane Doe",
+            "image": "advanced_vocal_techniques.jpg",
+            "price": 199.99             
+        }
+    ]
+}
